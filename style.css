@@ -94,3 +94,8 @@ h1 {
     font-weight: 700;
     width: fit-content;
 }
+
+.outputimeleft {
+    font-size: 2.3em;
+    color: bisque;
+}
